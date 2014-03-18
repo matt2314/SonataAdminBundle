@@ -20,7 +20,8 @@
        {
            "type": "vcs",
            "url": "https://github.com/matt2314/SonatajQueryBundle"
-       } 
+       }
+    ],
     "require": {
         "symfony/http-foundation": "~2.3",
         "symfony/form": "~2.3",
