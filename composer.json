@@ -35,7 +35,6 @@
         "sensio/generator-bundle": "~2.3",
         "twig/twig": "~1.12",
         "twig/extensions": "~1.0",
-        "sonata-project/jquery-bundle": "dev-jquery-1.10.2 as 1.8.*",
         "sonata-project/exporter": "~1.0",
         "sonata-project/block-bundle": "~2.2,>=2.2.7",
         "sonata-project/core-bundle": "~2.2",
@@ -46,7 +45,8 @@
     "require-dev": {
         "jms/translation-bundle": "~1.1",
         "symfony/yaml": "~2.3",
-        "sonata-project/intl-bundle": "~2.1"
+        "sonata-project/intl-bundle": "~2.1",
+        "sonata-project/jquery-bundle": "dev-jquery-1.10.2 as 1.8.*"
     },
     "suggest": {
         "jms/translation-bundle": "Extract message keys from Admins",
